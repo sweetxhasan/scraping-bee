@@ -1,7 +1,7 @@
 {
-  "name": "scraping-bee",
-  "version": "1.0.0",
-  "description": "Web Scraping API for Vercel",
+  "name": "scraping-bee-premium",
+  "version": "2.0.0",
+  "description": "Premium Web Scraping API",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -12,8 +12,7 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "@supabase/supabase-js": "^2.38.0",
-    "axios": "^1.6.0",
-    "user-agents": "^1.1.0"
+    "axios": "^1.6.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.0",
